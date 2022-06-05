@@ -5,7 +5,7 @@
 ### Generating an SSH key
 1. Open the Terminal/Git Bash
 2. Use this command to generate a key <br />
-  `ssh-kegen`
+  `ssh-keygen`
 3. The command prompts you to answer some questions about the path, file name .. etc. you can just skip them by pressing enter.
 4. The command generates an SSH key pair consisting of a **public key** and a **private key**, and saves them in the specified path.
 5. The file name of the private key is created automatically `id_rsa`, and you never share it with anyone.
